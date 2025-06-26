@@ -1,3 +1,4 @@
+grow-a-garden
 -- Script con GUI para spawnear Pet y Seed en Grow A Garden
 
 local player = game.Players.LocalPlayer
